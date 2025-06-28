@@ -1,0 +1,1 @@
+print("Oguri Cap vs Tamamo Cross")
